@@ -36,3 +36,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - **GitHub**: https://github.com/tasosbeast
 
 Thank you for visiting my portfolio. Let's create something amazing together!
+
+preview: https://master--tasosportfolio.netlify.app/
